@@ -1,3 +1,4 @@
+# This method helps people
 def square(n):
     """Returns the square of a number."""
     squared = n**2
